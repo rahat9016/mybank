@@ -1,0 +1,26 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    box-shadow: 5px 5px 10px rgb(179, 179, 179);
+    padding: 40px;
+    border-radius: 10px;
+}
+.status{
+    padding: 40px;
+    border-radius: 10px;
+    background-color: bisque;
+    color:#fff;
+}
+.deposit{
+    background-color: #6A5ACC;
+}
+.withdrow{
+    background-color: #FE9F7A;
+}
+.balance{
+    background-color: #FEA400;
+}
+#transaction{
+    display: none;
+}
